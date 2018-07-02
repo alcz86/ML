@@ -3,3 +3,5 @@
 Here is my repository created to gather information about ML&AI topics.
 
 
+### Interesting links:
+* [Code snippets](https://chrisalbon.com)
