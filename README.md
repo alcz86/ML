@@ -12,3 +12,4 @@ Here is my repository created to gather information about ML&AI topics.
 ### Documentation
 * [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
 * [Keras](https://keras.io/)
+* [PyTorch](https://pytorch.org/docs/stable/index.html/)
