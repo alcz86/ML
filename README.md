@@ -7,6 +7,8 @@ Here is my repository created to gather information about ML&AI topics.
 * [Code snippets](https://chrisalbon.com)
 * [Mnist visualiser](http://nn-mnist.sennabaum.com/)
 * [Browse state-of-the-art](https://paperswithcode.com/sota/)
+* [Spooky NLP and topic modelling](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)
+
 
 
 ### Documentation
