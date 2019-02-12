@@ -8,6 +8,8 @@ Here is my repository created to gather information about ML&AI topics.
 * [Mnist visualiser](http://nn-mnist.sennabaum.com/)
 * [Browse state-of-the-art](https://paperswithcode.com/sota/)
 * [Spooky NLP and topic modelling](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)
+* [Sentiment classification LSTM](https://blog.usejournal.com/sentiment-classification-with-natural-language-processing-on-lstm-4dc0497c1f19)
+
 
 
 
