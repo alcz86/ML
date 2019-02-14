@@ -9,7 +9,9 @@ Fell free to look at my examples. A lot of them are still being improved from ti
 * [Mnist visualiser](http://nn-mnist.sennabaum.com/)
 * [Browse state-of-the-art](https://paperswithcode.com/sota/)
 * [Spooky NLP and topic modelling](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)
+* [NLTK Spay Gensim Tutorial](https://www.kaggle.com/mjbahmani/top-3-nlp-libraries-tutorial-nltk-spacy-gensim)
 * [Sentiment classification LSTM](https://blog.usejournal.com/sentiment-classification-with-natural-language-processing-on-lstm-4dc0497c1f19)
+* [Anomaly detection with Isolation Forest](https://www.kaggle.com/adithya44/anomaly-detection-isolation-forest-visualization)
 
 
 
