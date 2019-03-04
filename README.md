@@ -1,7 +1,8 @@
 # From Business Intelligence to Machine Learning, Deep Learning and Artificial Intelligence
 
 Here is my repository created to gather information about ML&AI topics.
-Fell free to look at my examples. A lot of them are still being improved from time to time.
+Feel free to look at my examples. A lot of them are still being improved from time to time. 
+Most of them were developed with AWS, GCP or Colab and here is only kind of a backup for them.
 
 
 ### Interesting links:
